@@ -1,0 +1,1 @@
+Yoga Tutor Website Project: Utilizing HTML, CSS, JavaScript ES6, PHP, and MySQL, this comprehensive platform enhances your yoga journey with personalized scheduling, interactive sessions, and enriching content. Explore a user-friendly interface designed to cater to both beginners and enthusiasts, offering seamless navigation and intuitive features
